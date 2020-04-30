@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Dataset](#dataset)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
