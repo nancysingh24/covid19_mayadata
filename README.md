@@ -24,11 +24,9 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using pip for eg:
-
+```
 $  pip install calmap
-
 $  pip install chart-studio
-
 $  pip install plotly-geo
-
+```
 Run the covid19-mayadata.py on google colab.
