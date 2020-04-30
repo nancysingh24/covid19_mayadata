@@ -34,6 +34,13 @@ To run this project, install it locally using pip for eg:
 $  pip install calmap
 $  pip install chart-studio
 $  pip install plotly-geo
+
 ```
 Run the covid19-mayadata.py file on google colab.
-![Number of Countries effected due to COVID-19](countries_effected.png)
+
+
+![Number of Countries affected due to COVID-19](countries_effected.png)
+
+![World trend](world_trend.png)
+
+![COVID_19_affected countries on world map](covid19_effected_world_map.png)
