@@ -36,3 +36,4 @@ $  pip install chart-studio
 $  pip install plotly-geo
 ```
 Run the covid19-mayadata.py file on google colab.
+![Number of Countries effected due to COVID-19](countries_effected.png)
