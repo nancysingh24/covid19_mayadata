@@ -8,6 +8,11 @@
 
 ## General info
 This project is for visualization of covid 19 affected countries on the world map.
+
+## Dataset
+covid_19_clean_complete.csv
+
+usa_county_wise.csv
 	
 ## Technologies
 Project is created with:
@@ -29,4 +34,4 @@ $  pip install calmap
 $  pip install chart-studio
 $  pip install plotly-geo
 ```
-Run the covid19-mayadata.py on google colab.
+Run the covid19-mayadata.py file on google colab.
