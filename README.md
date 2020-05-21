@@ -1,4 +1,4 @@
-# Project COVID-19_visualization_mayadata
+# Project COVID-19_visualization
 
 
 ## Table of contents
